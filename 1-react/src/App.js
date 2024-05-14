@@ -6,7 +6,7 @@ function App() {
     <div className="login-container">
       <div className="login-box">
         <div className="white-text">EDUCHAT에 오신것을</div>
-        <div className="white-text">환영합니다 eva</div>
+        <div className="white-text">환영합니다 </div>
       </div>
       <div className="login-box1">
 
